@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunKeeper", "RunKeeper\RunKeeper.csproj", "{9203C4CC-D39C-40C3-A592-BE803A7A5B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunKeeper.Tests", "RunKeeper.Tests\RunKeeper.Tests.csproj", "{ABE2DD6F-9081-4B24-B30E-B7F4F1197C9E}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Activities.DataAccess", "Activities.DataAccess\Activities.DataAccess.xproj", "{9879DA60-2123-4C79-A88D-BF767C53B010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9203C4CC-D39C-40C3-A592-BE803A7A5B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9203C4CC-D39C-40C3-A592-BE803A7A5B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9203C4CC-D39C-40C3-A592-BE803A7A5B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9203C4CC-D39C-40C3-A592-BE803A7A5B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE2DD6F-9081-4B24-B30E-B7F4F1197C9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE2DD6F-9081-4B24-B30E-B7F4F1197C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE2DD6F-9081-4B24-B30E-B7F4F1197C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE2DD6F-9081-4B24-B30E-B7F4F1197C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9879DA60-2123-4C79-A88D-BF767C53B010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9879DA60-2123-4C79-A88D-BF767C53B010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9879DA60-2123-4C79-A88D-BF767C53B010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9879DA60-2123-4C79-A88D-BF767C53B010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
